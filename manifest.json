@@ -1,0 +1,25 @@
+{
+  "name": {
+    "en": "The spider's sudden jump",
+    "ru": "Внезапный прыжок паука",
+    "uk": "Раптовий стрибок павука"
+  },
+  "description": {
+    "en": "What could be better than a spider suddenly jumping on a streamer? 😈",
+    "ru": "Что может быть лучше, чем внезапно напрыгивающий на стримера паук? 😈",
+    "uk": "Що може бути краще, ніж павук, який раптово настрибує на стримера? 😈"
+  },
+  "type": "overlay",
+  "version": "1.0.0",
+  "author": "RocketMan",
+  "icon": "logo.svg",
+  "overlay": {
+    "audio": "audio.mp3",
+    "video": "video.webm",
+    "defaultVolume": 50,
+    "defaultDuration": 2,
+    "lockDuration": true,
+    "durationMin": 2,
+    "durationMax": 2
+  }
+}
